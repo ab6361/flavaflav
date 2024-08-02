@@ -1,0 +1,450 @@
+A= 2  Z= 1  N= 1
+Momentum normalizations
+4*PI*TOTINT(RHOK*K**2:K)/(2*PI)**3=  1
+4*PI*TOTINT(RHOK*K**2:K)/(2*PI)**3=  1
+Fraction of nucleons above k= 1.5 fm-1
+PF=  .036597
+NF=  .036597
+AF=  .036597
+Kinetic energy per nucleon
+KEP=  9.9101
+KEN=  9.8964
+KEA=  9.9032
+Fraction of kinetic energy above k= 1.5 fm-1
+KEPF/KEP=  .51139
+KENF/KEN=  .51139
+KEAF/KEA=  .51139
+Density normalization
+4*PI*TOTINT(RHORP*R**2:R)=  .99906
+4*PI*TOTINT(RHORN*R**2:R)=  .99906
+Integrals with density**2
+4*PI*TOTINT(RHORA**2*R**2:R)/A=  .07592
+4*PI*TOTINT((RHORA-RHORP/Z)*RHORP*R**2:R)/Z=  .03796
+4*PI*TOTINT((RHORA-RHORN/N)*RHORN*R**2:R)/N=  .03796
+Two-nucleon densities & integrals from 0 to 1
+Seen by protons
+4*PI*TOTINT(RHORPPX*RX**2:RX)/(Z/2)=  0
+4*PI*TOTINT(RHORNPX*RX**2:RX)/Z=  .053698
+Seen by neutrons
+4*PI*TOTINT(RHORNNX*RX**2:RX)/(N/2)=  0
+4*PI*TOTINT(RHORNPX*RX**2:RX)/N=  .053698
+A=  3   Z=  1   N=  2
+Momentum normalizations
+4*PI*TOTINT(RHOKNT*K**2:K)/(2*PI)**3=  2
+4*PI*TOTINT(RHOKPT*K**2:K)/(2*PI)**3=  .99991
+Fraction of nucleons above k= 1.5 fm-1
+PF=  .077088
+NF=  .048003
+AF=  .057698
+Kinetic energy per nucleon
+KEP=  19.614
+KEN=  14.956
+KEA=  16.509
+Fraction of kinetic energy above k= 1.5 fm-1
+KEPF/KEP=  .56735
+KENF/KEN=  .49259
+KEAF/KEA=  .5226
+Density normalization
+4*PI*TOTINT(RHORPT*R**2:R)=  .99871
+4*PI*TOTINT(RHORNT*R**2:R)=  1.9976
+Integrals with density**2
+4*PI*TOTINT(RHORAT**2*R**2:R)/A=  .096788
+4*PI*TOTINT((RHORAT-RHORPT/Z)*RHORPT*R**2:R)/Z=  .066438
+4*PI*TOTINT((RHORAT-RHORNT/N)*RHORNT*R**2:R)/N=  .063396
+Two-nucleon densities & integrals from 0 to 1
+Seen by protons
+4*PI*TOTINT(RHORPPX*RX**2:RX)/(Z/2)=  0
+4*PI*TOTINT(RHORNPX*RX**2:RX)/Z=  .13007
+Seen by neutrons
+4*PI*TOTINT(RHORNNX*RX**2:RX)/(N/2)=  .046288
+4*PI*TOTINT(RHORNPX*RX**2:RX)/N=  .065033
+A=  3   Z=  2   N=  1
+Momentum normalizations
+4*PI*TOTINT(RHOKNH*K**2:K)/(2*PI)**3=  .99996
+4*PI*TOTINT(RHOKPH*K**2:K)/(2*PI)**3=  2
+Fraction of nucleons above k= 1.5 fm-1
+PF=  .047129
+NF=  .075937
+AF=  .056731
+Kinetic energy per nucleon
+KEP=  14.712
+KEN=  19.346
+KEA=  16.257
+Fraction of kinetic energy above k= 1.5 fm-1
+KEPF/KEP=  .49315
+KENF/KEN=  .5668
+KEAF/KEA=  .52268
+Density normalization
+4*PI*TOTINT(RHORPH*R**2:R)=  1.9981
+4*PI*TOTINT(RHORNH*R**2:R)=  .99902
+Integrals with density**2
+4*PI*TOTINT(RHORAH**2*R**2:R)/A=  .09396
+4*PI*TOTINT((RHORAH-RHORPH/Z)*RHORPH*R**2:R)/Z=  .061499
+4*PI*TOTINT((RHORAH-RHORNH/N)*RHORNH*R**2:R)/N=  .064567
+Two-nucleon densities & integrals from 0 to 1
+Seen by protons
+4*PI*TOTINT(RHORPPX*RX**2:RX)/(Z/2)=  .045214
+4*PI*TOTINT(RHORNPX*RX**2:RX)/Z=  .064334
+Seen by neutrons
+4*PI*TOTINT(RHORNNX*RX**2:RX)/(N/2)=  0
+4*PI*TOTINT(RHORNPX*RX**2:RX)/N=  .12867
+A=  4   Z=  2   N=  2
+Momentum normalizations
+4*PI*TOTINT(RHOKN*K**2:K)/(2*PI)**3=  2
+4*PI*TOTINT(RHOKP*K**2:K)/(2*PI)**3=  2
+Fraction of nucleons above k= 1.5 fm-1
+PF=  .10715
+NF=  .10715
+AF=  .10715
+Kinetic energy per nucleon
+KEP=  27.592
+KEN=  27.554
+KEA=  27.573
+Fraction of kinetic energy above k= 1.5 fm-1
+KEPF/KEP=  .60627
+KENF/KEN=  .60627
+KEAF/KEA=  .60668
+Density normalization
+4*PI*TOTINT(RHORP*R**2:R)=  1.9974
+4*PI*TOTINT(RHORN*R**2:R)=  1.9974
+Integrals with density**2
+4*PI*TOTINT(RHORA**2*R**2:R)/A=  .1678
+4*PI*TOTINT((RHORA-RHORP/Z)*RHORP*R**2:R)/Z=  .12585
+4*PI*TOTINT((RHORA-RHORN/N)*RHORN*R**2:R)/N=  .12585
+Two-nucleon densities & integrals from 0 to 1
+Seen by protons
+4*PI*TOTINT(RHORPPX*RX**2:RX)/(Z/2)=  .063455
+4*PI*TOTINT(RHORNPX*RX**2:RX)/Z=  .16172
+Seen by neutrons
+4*PI*TOTINT(RHORNNX*RX**2:RX)/(N/2)=  .063455
+4*PI*TOTINT(RHORNPX*RX**2:RX)/N=  .16172
+A=  6   Z=  3   N=  3
+Momentum normalizations
+4*PI*TOTINT(RHOKN*K**2:K)/(2*PI)**3=  3
+4*PI*TOTINT(RHOKP*K**2:K)/(2*PI)**3=  3
+Fraction of nucleons above k= 1.5 fm-1
+PF=  .090959
+NF=  .090959
+AF=  .090959
+Kinetic energy per nucleon
+KEP=  24.292
+KEN=  24.259
+KEA=  24.275
+Fraction of kinetic energy above k= 1.5 fm-1
+KEPF/KEP=  .57828
+KENF/KEN=  .57828
+KEAF/KEA=  .57867
+Density normalization
+4*PI*TOTINT(RHORP*R**2:R)=  2.9991
+4*PI*TOTINT(RHORN*R**2:R)=  2.9991
+Integrals with density**2
+4*PI*TOTINT(RHORA**2*R**2:R)/A=  .056123
+4*PI*TOTINT((RHORA-RHORP/Z)*RHORP*R**2:R)/Z=  .046769
+4*PI*TOTINT((RHORA-RHORN/N)*RHORN*R**2:R)/N=  .046769
+Two-nucleon densities & integrals from 0 to 1
+Seen by protons
+4*PI*TOTINT(RHORPPX*RX**2:RX)/(Z/2)=  .04638
+4*PI*TOTINT(RHORNPX*RX**2:RX)/Z=  .13648
+Seen by neutrons
+4*PI*TOTINT(RHORNNX*RX**2:RX)/(N/2)=  .04638
+4*PI*TOTINT(RHORNPX*RX**2:RX)/N=  .13648
+A=  7   Z=  3   N=  4
+Momentum normalizations
+4*PI*TOTINT(RHOKN*K**2:K)/(2*PI)**3=  4
+4*PI*TOTINT(RHOKP*K**2:K)/(2*PI)**3=  3.0001
+Fraction of nucleons above k= 1.5 fm-1
+PF=  .10279
+NF=  .084456
+AF=  .092312
+Kinetic energy per nucleon
+KEP=  26.884
+KEN=  24.54
+KEA=  25.544
+Fraction of kinetic energy above k= 1.5 fm-1
+KEPF/KEP=  .59281
+KENF/KEN=  .53728
+KEAF/KEA=  .56273
+Density normalization
+4*PI*TOTINT(RHORP*R**2:R)=  2.9983
+4*PI*TOTINT(RHORN*R**2:R)=  3.9984
+Integrals with density**2
+4*PI*TOTINT(RHORA**2*R**2:R)/A=  .060029
+4*PI*TOTINT((RHORA-RHORP/Z)*RHORP*R**2:R)/Z=  .053957
+4*PI*TOTINT((RHORA-RHORN/N)*RHORN*R**2:R)/N=  .049476
+Two-nucleon densities & integrals from 0 to 1
+Seen by protons
+4*PI*TOTINT(RHORPPX*RX**2:RX)/(Z/2)=  .045801
+4*PI*TOTINT(RHORNPX*RX**2:RX)/Z=  .16241
+Seen by neutrons
+4*PI*TOTINT(RHORNNX*RX**2:RX)/(N/2)=  .063394
+4*PI*TOTINT(RHORNPX*RX**2:RX)/N=  .12181
+A=  9   Z=  4   N=  5
+Momentum normalizations
+4*PI*TOTINT(RHOKN*K**2:K)/(2*PI)**3=  4.9999
+4*PI*TOTINT(RHOKP*K**2:K)/(2*PI)**3=  4
+Fraction of nucleons above k= 1.5 fm-1
+PF=  .11217
+NF=  .096071
+AF=  .10323
+Kinetic energy per nucleon
+KEP=  29.802
+KEN=  27.098
+KEA=  28.3
+Fraction of kinetic energy above k= 1.5 fm-1
+KEPF/KEP=  .59983
+KENF/KEN=  .55268
+KEAF/KEA=  .57516
+Density normalization
+4*PI*TOTINT(RHORP*R**2:R)=  3.9992
+4*PI*TOTINT(RHORN*R**2:R)=  4.9987
+Integrals with density**2
+4*PI*TOTINT(RHORA**2*R**2:R)/A=  .067449
+4*PI*TOTINT((RHORA-RHORP/Z)*RHORP*R**2:R)/Z=  .061525
+4*PI*TOTINT((RHORA-RHORN/N)*RHORN*R**2:R)/N=  .058677
+Two-nucleon densities & integrals from 0 to 1
+Seen by protons
+4*PI*TOTINT(RHORPPX*RX**2:RX)/(Z/2)=  .065936
+4*PI*TOTINT(RHORNPX*RX**2:RX)/Z=  .17503
+Seen by neutrons
+4*PI*TOTINT(RHORNNX*RX**2:RX)/(N/2)=  .065084
+4*PI*TOTINT(RHORNPX*RX**2:RX)/N=  .14002
+A=  10   Z=  5   N=  5
+Momentum normalizations
+4*PI*TOTINT(RHOKN*K**2:K)/(2*PI)**3=  4.9999
+4*PI*TOTINT(RHOKP*K**2:K)/(2*PI)**3=  4.9999
+Fraction of nucleons above k= 1.5 fm-1
+PF=  .10353
+NF=  .10353
+AF=  .10353
+Kinetic energy per nucleon
+KEP=  28.701
+KEN=  28.662
+KEA=  28.682
+Fraction of kinetic energy above k= 1.5 fm-1
+KEPF/KEP=  .56195
+KENF/KEN=  .56195
+KEAF/KEA=  .56234
+Density normalization
+4*PI*TOTINT(RHORP*R**2:R)=  4.998
+4*PI*TOTINT(RHORN*R**2:R)=  4.998
+Integrals with density**2
+4*PI*TOTINT(RHORA**2*R**2:R)/A=  .07993
+4*PI*TOTINT((RHORA-RHORP/Z)*RHORP*R**2:R)/Z=  .071937
+4*PI*TOTINT((RHORA-RHORN/N)*RHORN*R**2:R)/N=  .071937
+Two-nucleon densities & integrals from 0 to 1
+Seen by protons
+4*PI*TOTINT(RHORPPX*RX**2:RX)/(Z/2)=  .064414
+4*PI*TOTINT(RHORNPX*RX**2:RX)/Z=  .15261
+Seen by neutrons
+4*PI*TOTINT(RHORNNX*RX**2:RX)/(N/2)=  .064414
+4*PI*TOTINT(RHORNPX*RX**2:RX)/N=  .15261
+A=  11   Z=  5   N=  6
+Momentum normalizations
+4*PI*TOTINT(RHOKN*K**2:K)/(2*PI)**3=  6.0003
+4*PI*TOTINT(RHOKP*K**2:K)/(2*PI)**3=  4.9998
+Fraction of nucleons above k= 1.5 fm-1
+PF=  .12587
+NF=  .11529
+AF=  .1201
+Kinetic energy per nucleon
+KEP=  33.405
+KEN=  31.752
+KEA=  32.503
+Fraction of kinetic energy above k= 1.5 fm-1
+KEPF/KEP=  .60452
+KENF/KEN=  .57303
+KEAF/KEA=  .58816
+Density normalization
+4*PI*TOTINT(RHORP*R**2:R)=  4.9979
+4*PI*TOTINT(RHORN*R**2:R)=  5.9999
+Integrals with density**2
+4*PI*TOTINT(RHORA**2*R**2:R)/A=  .087091
+4*PI*TOTINT((RHORA-RHORP/Z)*RHORP*R**2:R)/Z=  .080569
+4*PI*TOTINT((RHORA-RHORN/N)*RHORN*R**2:R)/N=  .077997
+Two-nucleon densities & integrals from 0 to 1
+Seen by protons
+4*PI*TOTINT(RHORPPX*RX**2:RX)/(Z/2)=  .070305
+4*PI*TOTINT(RHORNPX*RX**2:RX)/Z=  .20097
+Seen by neutrons
+4*PI*TOTINT(RHORNNX*RX**2:RX)/(N/2)=  .085772
+4*PI*TOTINT(RHORNPX*RX**2:RX)/N=  .16748
+A=  12   Z=  6   N=  6
+Momentum normalizations
+4*PI*TOTINT(RHOKN*K**2:K)/(2*PI)**3=  6.0003
+4*PI*TOTINT(RHOKP*K**2:K)/(2*PI)**3=  6.0003
+Fraction of nucleons above k= 1.5 fm-1
+PF=  .15904
+NF=  .15904
+AF=  .15904
+Kinetic energy per nucleon
+KEP=  38.101
+KEN=  38.049
+KEA=  38.075
+Fraction of kinetic energy above k= 1.5 fm-1
+KEPF/KEP=  .64262
+KENF/KEN=  .64262
+KEAF/KEA=  .64307
+Density normalization
+4*PI*TOTINT(RHORP*R**2:R)=  5.9978
+4*PI*TOTINT(RHORN*R**2:R)=  5.9978
+Integrals with density**2
+4*PI*TOTINT(RHORA**2*R**2:R)/A=  .097978
+4*PI*TOTINT((RHORA-RHORP/Z)*RHORP*R**2:R)/Z=  .089813
+4*PI*TOTINT((RHORA-RHORN/N)*RHORN*R**2:R)/N=  .089813
+Two-nucleon densities & integrals from 0 to 1
+Seen by protons
+4*PI*TOTINT(RHORPPX*RX**2:RX)/(Z/2)=  .092781
+4*PI*TOTINT(RHORNPX*RX**2:RX)/Z=  .21187
+Seen by neutrons
+4*PI*TOTINT(RHORNNX*RX**2:RX)/(N/2)=  .092781
+4*PI*TOTINT(RHORNPX*RX**2:RX)/N=  .21187
+A=  6   Z=  2   N=  4
+Momentum normalizations
+4*PI*TOTINT(RHOKN*K**2:K)/(2*PI)**3=  4
+4*PI*TOTINT(RHOKP*K**2:K)/(2*PI)**3=  2
+Fraction of nucleons above k= 1.5 fm-1
+PF=  .11106
+NF=  .062847
+AF=  .078917
+Kinetic energy per nucleon
+KEP=  27.73
+KEN=  19.119
+KEA=  21.989
+Fraction of kinetic energy above k= 1.5 fm-1
+KEPF/KEP=  .62582
+KENF/KEN=  .51061
+KEAF/KEA=  .55945
+Density normalization
+4*PI*TOTINT(RHORP*R**2:R)=  1.9992
+4*PI*TOTINT(RHORN*R**2:R)=  3.9993
+Integrals with density**2
+4*PI*TOTINT(RHORA**2*R**2:R)/A=  .058476
+4*PI*TOTINT((RHORA-RHORP/Z)*RHORP*R**2:R)/Z=  .059361
+4*PI*TOTINT((RHORA-RHORN/N)*RHORN*R**2:R)/N=  .042453
+Two-nucleon densities & integrals from 0 to 1
+Seen by protons
+4*PI*TOTINT(RHORPPX*RX**2:RX)/(Z/2)=  .05855
+4*PI*TOTINT(RHORNPX*RX**2:RX)/Z=  .17124
+Seen by neutrons
+4*PI*TOTINT(RHORNNX*RX**2:RX)/(N/2)=  .054489
+4*PI*TOTINT(RHORNPX*RX**2:RX)/N=  .08562
+A=  8   Z=  2   N=  6
+Momentum normalizations
+4*PI*TOTINT(RHOKN*K**2:K)/(2*PI)**3=  6.0002
+4*PI*TOTINT(RHOKP*K**2:K)/(2*PI)**3=  2
+Fraction of nucleons above k= 1.5 fm-1
+PF=  .12643
+NF=  .056757
+AF=  .074177
+Kinetic energy per nucleon
+KEP=  30.681
+KEN=  19.343
+KEA=  22.177
+Fraction of kinetic energy above k= 1.5 fm-1
+KEPF/KEP=  .65625
+KENF/KEN=  .44834
+KEAF/KEA=  .52066
+Density normalization
+4*PI*TOTINT(RHORP*R**2:R)=  1.999
+4*PI*TOTINT(RHORN*R**2:R)=  5.9992
+Integrals with density**2
+4*PI*TOTINT(RHORA**2*R**2:R)/A=  .067484
+4*PI*TOTINT((RHORA-RHORP/Z)*RHORP*R**2:R)/Z=  .079352
+4*PI*TOTINT((RHORA-RHORN/N)*RHORN*R**2:R)/N=  .050827
+Two-nucleon densities & integrals from 0 to 1
+Seen by protons
+4*PI*TOTINT(RHORPPX*RX**2:RX)/(Z/2)=  .056488
+4*PI*TOTINT(RHORNPX*RX**2:RX)/Z=  .20724
+Seen by neutrons
+4*PI*TOTINT(RHORNNX*RX**2:RX)/(N/2)=  .060164
+4*PI*TOTINT(RHORNPX*RX**2:RX)/N=  .06908
+A=  8   Z=  3   N=  5
+Momentum normalizations
+4*PI*TOTINT(RHOKN*K**2:K)/(2*PI)**3=  5
+4*PI*TOTINT(RHOKP*K**2:K)/(2*PI)**3=  3
+Fraction of nucleons above k= 1.5 fm-1
+PF=  .11216
+NF=  .078987
+AF=  .091426
+Kinetic energy per nucleon
+KEP=  28.951
+KEN=  23.979
+KEA=  25.843
+Fraction of kinetic energy above k= 1.5 fm-1
+KEPF/KEP=  .60321
+KENF/KEN=  .50223
+KEAF/KEA=  .54505
+Density normalization
+4*PI*TOTINT(RHORP*R**2:R)=  2.9976
+4*PI*TOTINT(RHORN*R**2:R)=  4.9972
+Integrals with density**2
+4*PI*TOTINT(RHORA**2*R**2:R)/A=  .074389
+4*PI*TOTINT((RHORA-RHORP/Z)*RHORP*R**2:R)/Z=  .071956
+4*PI*TOTINT((RHORA-RHORN/N)*RHORN*R**2:R)/N=  .060663
+Two-nucleon densities & integrals from 0 to 1
+Seen by protons
+4*PI*TOTINT(RHORPPX*RX**2:RX)/(Z/2)=  .048664
+4*PI*TOTINT(RHORNPX*RX**2:RX)/Z=  .17834
+Seen by neutrons
+4*PI*TOTINT(RHORNNX*RX**2:RX)/(N/2)=  .062211
+4*PI*TOTINT(RHORNPX*RX**2:RX)/N=  .107
+A=  9   Z=  3   N=  6
+Momentum normalizations
+4*PI*TOTINT(RHOKN*K**2:K)/(2*PI)**3=  6.0001
+4*PI*TOTINT(RHOKP*K**2:K)/(2*PI)**3=  3
+Fraction of nucleons above k= 1.5 fm-1
+PF=  .12217
+NF=  .080467
+AF=  .094369
+Kinetic energy per nucleon
+KEP=  31.385
+KEN=  24.912
+KEA=  27.07
+Fraction of kinetic energy above k= 1.5 fm-1
+KEPF/KEP=  .62138
+KENF/KEN=  .49263
+KEAF/KEA=  .54281
+Density normalization
+4*PI*TOTINT(RHORP*R**2:R)=  2.9981
+4*PI*TOTINT(RHORN*R**2:R)=  5.9964
+Integrals with density**2
+4*PI*TOTINT(RHORA**2*R**2:R)/A=  .085159
+4*PI*TOTINT((RHORA-RHORP/Z)*RHORP*R**2:R)/Z=  .086236
+4*PI*TOTINT((RHORA-RHORN/N)*RHORN*R**2:R)/N=  .069987
+Two-nucleon densities & integrals from 0 to 1
+Seen by protons
+4*PI*TOTINT(RHORPPX*RX**2:RX)/(Z/2)=  .05193
+4*PI*TOTINT(RHORNPX*RX**2:RX)/Z=  .20269
+Seen by neutrons
+4*PI*TOTINT(RHORNNX*RX**2:RX)/(N/2)=  .077178
+4*PI*TOTINT(RHORNPX*RX**2:RX)/N=  .10134
+A=  10   Z=  4   N=  6
+Momentum normalizations
+4*PI*TOTINT(RHOKN*K**2:K)/(2*PI)**3=  5.9998
+4*PI*TOTINT(RHOKP*K**2:K)/(2*PI)**3=  4
+Fraction of nucleons above k= 1.5 fm-1
+PF=  .11631
+NF=  .088321
+AF=  .099518
+Kinetic energy per nucleon
+KEP=  30.202
+KEN=  25.95
+KEA=  27.651
+Fraction of kinetic energy above k= 1.5 fm-1
+KEPF/KEP=  .60323
+KENF/KEN=  .52132
+KEAF/KEA=  .55751
+Density normalization
+4*PI*TOTINT(RHORP*R**2:R)=  3.9989
+4*PI*TOTINT(RHORN*R**2:R)=  5.9988
+Integrals with density**2
+4*PI*TOTINT(RHORA**2*R**2:R)/A=  .075163
+4*PI*TOTINT((RHORA-RHORP/Z)*RHORP*R**2:R)/Z=  .071495
+4*PI*TOTINT((RHORA-RHORN/N)*RHORN*R**2:R)/N=  .065003
+Two-nucleon densities & integrals from 0 to 1
+Seen by protons
+4*PI*TOTINT(RHORPPX*RX**2:RX)/(Z/2)=  .064243
+4*PI*TOTINT(RHORNPX*RX**2:RX)/Z=  .1763
+Seen by neutrons
+4*PI*TOTINT(RHORNNX*RX**2:RX)/(N/2)=  .070141
+4*PI*TOTINT(RHORNPX*RX**2:RX)/N=  .11754
