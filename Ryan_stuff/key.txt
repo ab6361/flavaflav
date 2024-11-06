@@ -1,0 +1,36 @@
+1 name
+2 proton momentum normalization (number of protons) 
+3 neutron momentum normalization (number of neutrons)
+4 proton momentum
+5 2 proton momentum
+6 neutron momentum 
+7 2 neutron momentum
+8 Total kinetic energy of protons
+9 Total kinetic energy of neutrons
+10 Kinetic energy of protons above 1 fm
+11 Kinetic energy of protons above 2 fm
+12 Kinetic energy of neutrons above 1 fm
+13 Kinetic energy of neutrons above 2 fm
+14 densNorm protons
+15 average density of protons 
+16 average density as seen by protons
+17 rms radius of protons (?)
+18 densNorm for neutrons
+19 average density of neutrons
+20 average density as seen by neutrons
+21 aveDens as seen by N (looks like RMS radius actually)
+22 rms radius of neutrons (this looks like average dens)
+23 density norm for PP
+24 density norm for NP
+25 density norm for NN
+26 near PP
+27 near NP
+28 near NN
+29 rms PP
+30 rms NP
+31 rms NN
+32 tag (look it up)
+33 Z
+34 N
+
+###looks like $19 and $22 are switched
